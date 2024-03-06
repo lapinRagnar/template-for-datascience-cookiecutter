@@ -66,3 +66,5 @@ https://www.youtube.com/watch?v=MaIfDPuSlw8
 ### trouver des datas - scrapping
 https://brightdata.fr/
 
+### full machine learning project tuto
+https://www.youtube.com/watch?v=cCONIdrM2VI&list=PL-Y17yukoyy0sT2hoSQxn1TdV0J7-MX4K
